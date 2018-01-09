@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * Fonte da Rest API utilizando AbstractRestfulController
+ * http://www.superlativelabs.com/how-to-create-a-rest-api-in-zend-framework-3-add-action-methods-to-your-restful-controllers/
+ */
+
 namespace Rest\Controller;
 
 use Zend\Mvc\Controller\AbstractRestfulController;
