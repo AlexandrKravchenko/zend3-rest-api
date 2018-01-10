@@ -12,7 +12,6 @@ class AlbumController extends AbstractActionController
 {
     private $table;
 
-    // Add this constructor:
     public function __construct(AlbumTable $table)
     {
         $this->table = $table;

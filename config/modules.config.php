@@ -22,4 +22,5 @@ return [
     'Application',
     'Album',
     'Rest',
+    'Auth',
 ];
